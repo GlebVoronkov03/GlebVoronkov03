@@ -28,7 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40" class="inline-block"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" class="inline-block"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="unrealengine" width="40" height="40" class="inline-      block"/>
-<i class="devicon-unrealengine-original"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
 
 <h3><strong>About me:</strong></h3>
 - 🔭 I’m currently working on Live Studio in Unreal Engine 5
