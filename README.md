@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="unrealengine" width="40" height="40" />&nbsp;
 
-<h3><strong>About me:</strong></h3>
+### About me:
 - 🔭 I’m currently working on Live Studio in Unreal Engine 5
 - 🌱 I’m currently learning Data Science, Web3
 - 📄 Know about my experiences [CV](https://glebvoronkov03.github.io/Gleb-Voronkov-Web-CV/)
