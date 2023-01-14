@@ -17,8 +17,9 @@
   </a>
 </div>
 
-<h3>About me:</h3>
+<h3></h3>
 
+<h3><strong>About me:</strong></h3>
 - 🔭 I’m currently working on Live Studio in Unreal Engine 5
 - 🌱 I’m currently learning Data Science, Web3
 - 📄 Know about my experiences [CV](https://glebvoronkov03.github.io/Gleb-Voronkov-Web-CV/)
