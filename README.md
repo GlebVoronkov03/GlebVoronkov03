@@ -17,6 +17,15 @@
   </a>
 </div>
 
+### About me:
+- 🔭 I’m currently working on Live Studio in Unreal Engine 5
+- 🌱 I’m currently learning Data Science, Web3
+- 📄 Know about my experiences [CV](https://glebvoronkov03.github.io/Gleb-Voronkov-Web-CV/)
+- 📫 How to reach me: 
+      [WhatsApp](https://api.whatsapp.com/send?phone=79261781707&text=Hello,%20Gleb%20Voronkov.%20I%27m%20from%20GitHub.), 
+      [e-mail](mailto:glebvoronkov03@gmail.com)
+- 🌍 I speak English and Russian
+
 ### Languages and tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40" />&nbsp;
@@ -26,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40" />&nbsp;
@@ -40,11 +48,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="photoshop" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="canva" width="40" height="40" />&nbsp;
 
-### About me:
-- 🔭 I’m currently working on Live Studio in Unreal Engine 5
-- 🌱 I’m currently learning Data Science, Web3
-- 📄 Know about my experiences [CV](https://glebvoronkov03.github.io/Gleb-Voronkov-Web-CV/)
-- 📫 How to reach me: 
-      [WhatsApp](https://api.whatsapp.com/send?phone=79261781707&text=Hello,%20Gleb%20Voronkov.%20I%27m%20from%20GitHub.), 
-      [e-mail](mailto:glebvoronkov03@gmail.com)
-- 🌍 I speak English and Russian
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark"/>
+</div>
