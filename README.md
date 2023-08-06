@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Gleb.</h1>
-  <h3>FullStack Developer from Moscow.</h3>
+  <h3>Computer vision Developer from Moscow.</h3>
 </div>
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/gleb-voronkov-397082240/">
