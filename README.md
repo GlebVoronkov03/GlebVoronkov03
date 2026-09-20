@@ -21,7 +21,7 @@ I ship research systems into usable tools: local RAG assistants, multi-agent orc
   <tr>
     <td width="33%" valign="top">
       <a href="https://glebvoronkov03.github.io/gleb-web-portfolio/projects/pler.html"><img src="https://raw.githubusercontent.com/GlebVoronkov03/gleb-web-portfolio/main/assets/screenshots/pler-comparison.png" alt="PLER" /></a>
-      <br/><b><a href="https://github.com/GlebVoronkov03/pler-3d-quality">PLER</a></b> — original full-reference 3D mesh quality metric<br/>
+      <br/><b><a href="https://github.com/GlebVoronkov03/pler-3d-quality">PLER</a></b> — PLER 2.0 full-reference geometric fidelity metric<br/>
       <a href="https://glebvoronkov03.github.io/gleb-web-portfolio/projects/pler.html">Portfolio →</a>
     </td>
     <td width="33%" valign="top">
@@ -57,13 +57,15 @@ I ship research systems into usable tools: local RAG assistants, multi-agent orc
 
 ## Publications & IP
 
-- **Software № 2024682445** — video-to-anthropomorphic 3D motion capture in Unreal Engine (Rospatent)
-- [Voronkov G.A., Vinetsky V.Yu.](https://github.com/GlebVoronkov03/pler-3d-quality/blob/main/CITATION.cff) — Character Motion Capture for Broadcast Content Production. Sync./Signal Processing Systems, 2025 (RSCI)
-- Voronkov G.A., Matskevich A.G., Orlov V.G. — Virtual Video Content Studio Model Using AR. Telecom & IT, 2023 (RSCI)
-- V. G. Voronkov — Research of methods for modeling user assessments of 3D content for XR systems. Scopus, 2024
-- V. G. Voronkov — Error analysis of generating 3D models of objects using various hardware systems. Scopus, 2025
+- **PLER: A Novel Full-Reference Metric…** (2025) — PLER 2.0 Fibonacci-sphere geometric fidelity · [PDF](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/pler-geometric-fidelity.pdf)
+- **Error analysis of generating 3D models…** (Scopus, 2025) — photogrammetry / TrueDepth / LiDAR · [PDF](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/error-analysis-3d-hardware.pdf)
+- **Character motion capture for broadcast content** (RSCI, 2025) · [PDF](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/motion-capture-broadcast.pdf)
+- **User assessments of 3D content for XR** (Scopus, 2024) · [PDF](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/user-assessments-3d-xr.pdf)
+- **CaT-3D software № 2024682445** (Rospatent, 2024) · [Certificate](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/certificate-cat3d-2024682445.pdf)
+- **Virtual video studio with AR / ARTCam** (Telecom & IT, 2023) · [PDF](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/virtual-studio-ar-tit.pdf)
+- **ROI-aware detail reduction** (TiVS forum, 2023) · [PDF](https://glebvoronkov03.github.io/gleb-web-portfolio/assets/papers/roi-detail-reduction.pdf)
 
-Full list → [https://glebvoronkov03.github.io/gleb-web-portfolio/publications.html](https://glebvoronkov03.github.io/gleb-web-portfolio/publications.html)
+Full abstracts → [Publications page](https://glebvoronkov03.github.io/gleb-web-portfolio/publications.html)
 
 ## Experience
 
