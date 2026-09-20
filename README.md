@@ -1,7 +1,7 @@
 # Gleb Voronkov
 
 **ML Engineer** · LLM/RAG · 3D Computer Vision · Acoustic DSP  
-Moscow | Telegram [t.me/Gleb_Voronkov] | glebvoronkov03@gmail.com
+Moscow · [Telegram @Gleb_Voronkov](https://t.me/Gleb_Voronkov) · mybook3@mail.ru
 
 I build production and research ML systems end-to-end: local RAG assistants, multi-agent orchestration, original 3D quality metrics, and acoustic/ANC DSP labs. Master's student at MTUCI (Media Content Processing Systems). Registered software № 2024682445 (motion capture).
 
